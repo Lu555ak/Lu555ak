@@ -3,10 +3,7 @@
 # Hello. I'm Luak.
 ![Omori cat](art2.png)
 </div>
-<div align="center">
 
-## Key points.
-</div>
 
 <table align="center">
 <tr>
@@ -39,6 +36,6 @@
 
 ![Omori alone](art3.png)
 
-^ ｍｅ ｗｈｅｎ ｄｏｉｎｇ ＰＨＰ . . .
+ｍｅ&nbsp; ｗｈｅｎ&nbsp; ｄｏｉｎｇ&nbsp; ＰＨＰ&nbsp; .&nbsp; .&nbsp; .&nbsp;
 </div>
 
